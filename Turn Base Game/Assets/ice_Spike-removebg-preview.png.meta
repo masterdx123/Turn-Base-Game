@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: bef74a909568e504ea715aafeb6bff3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8078489430843638692
+    second: ice_Spike-removebg-preview_0
+  - first:
+      213: 665663376042085423
+    second: ice_Spike-removebg-preview_1
+  - first:
+      213: 4666992028568566778
+    second: ice_Spike-removebg-preview_2
+  - first:
+      213: -6052594746483325400
+    second: ice_Spike-removebg-preview_3
+  - first:
+      213: 5333503001920348382
+    second: ice_Spike-removebg-preview_4
+  - first:
+      213: 2121176294632200180
+    second: ice_Spike-removebg-preview_5
+  - first:
+      213: -7196214165515033879
+    second: ice_Spike-removebg-preview_6
+  - first:
+      213: -1750319011861553712
+    second: ice_Spike-removebg-preview_7
+  - first:
+      213: -981494356617447296
+    second: ice_Spike-removebg-preview_8
+  - first:
+      213: -1457249707090750648
+    second: ice_Spike-removebg-preview_9
+  - first:
+      213: 3285244970301351485
+    second: ice_Spike-removebg-preview_10
+  - first:
+      213: 3033420556945211621
+    second: ice_Spike-removebg-preview_11
+  - first:
+      213: -8832749978716712423
+    second: ice_Spike-removebg-preview_12
+  - first:
+      213: -280093281025640204
+    second: ice_Spike-removebg-preview_13
+  - first:
+      213: 1860192095069683617
+    second: ice_Spike-removebg-preview_14
+  - first:
+      213: 811541483910101178
+    second: ice_Spike-removebg-preview_15
+  - first:
+      213: -9073381143929325033
+    second: ice_Spike-removebg-preview_16
+  - first:
+      213: 2046342956457819678
+    second: ice_Spike-removebg-preview_17
+  - first:
+      213: 8614514239406389711
+    second: ice_Spike-removebg-preview_18
+  - first:
+      213: 358199326174296894
+    second: ice_Spike-removebg-preview_19
+  - first:
+      213: 4795868445086068932
+    second: ice_Spike-removebg-preview_20
+  - first:
+      213: -2151290575115786716
+    second: ice_Spike-removebg-preview_21
+  - first:
+      213: 6844512290574984918
+    second: ice_Spike-removebg-preview_22
+  - first:
+      213: -6809419482665141391
+    second: ice_Spike-removebg-preview_23
+  - first:
+      213: -7928222669032044460
+    second: ice_Spike-removebg-preview_24
+  - first:
+      213: 5814208875485529753
+    second: ice_Spike-removebg-preview_25
+  - first:
+      213: 5101563920465955989
+    second: ice_Spike-removebg-preview_26
+  - first:
+      213: -5874618691534765328
+    second: ice_Spike-removebg-preview_27
+  - first:
+      213: 299197735813927718
+    second: ice_Spike-removebg-preview_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c31d01aa073ef80800000000000000
+      internalID: -8078489430843638692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 448
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cc9fc4059ec3900800000000000000
+      internalID: 665663376042085423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 448
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbb860f58c74c040800000000000000
+      internalID: 4666992028568566778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 448
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264776652dd00ca0800000000000000
+      internalID: -6052594746483325400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed021fdd8b8640a40800000000000000
+      internalID: 5333503001920348382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 448
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7188bf99eef6d10800000000000000
+      internalID: 2121176294632200180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 335
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a7d8f759e12c90800000000000000
+      internalID: -7196214165515033879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 336
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd116ed12e95b7e0800000000000000
+      internalID: -1750319011861553712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 337
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08834c435180162f0800000000000000
+      internalID: -981494356617447296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84350dbbc1fc6cbe0800000000000000
+      internalID: -1457249707090750648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 337
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3663fef4e8879d20800000000000000
+      internalID: 3285244970301351485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 337
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0461fbcefd81a20800000000000000
+      internalID: 3033420556945211621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 224
+        width: 31
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91250c831b4cb6580800000000000000
+      internalID: -8832749978716712423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 30
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f83e7815a8ec1cf0800000000000000
+      internalID: -280093281025640204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 31
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af3e90dadab0d910800000000000000
+      internalID: 1860192095069683617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab874fc0eac234b00800000000000000
+      internalID: 811541483910101178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 224
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7d542cefd41280800000000000000
+      internalID: -9073381143929325033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 224
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e7a40b312166c10800000000000000
+      internalID: 2046342956457819678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 112
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9bc502f07ec8770800000000000000
+      internalID: 8614514239406389711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b376ba36498f400800000000000000
+      internalID: 358199326174296894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 112
+        width: 31
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c03cd2f0f85e8240800000000000000
+      internalID: 4795868445086068932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 112
+        width: 30
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e395be941522e0800000000000000
+      internalID: -2151290575115786716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6648c1aa79cfe50800000000000000
+      internalID: 6844512290574984918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 73
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bbe11fe051081a0800000000000000
+      internalID: -6809419482665141391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4584520fc7b49f190800000000000000
+      internalID: -7928222669032044460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960d31da2830b050800000000000000
+      internalID: 5814208875485529753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c825e3b556cc640800000000000000
+      internalID: 5101563920465955989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 26
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f24334dc69297ea0800000000000000
+      internalID: -5874618691534765328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_Spike-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235ac861c6f62400800000000000000
+      internalID: 299197735813927718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

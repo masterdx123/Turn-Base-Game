@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: 5b5cd7479f4b97a4caab024bc51f4798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 990084261100415930
+    second: grenade_2d_sprite-removebg-preview_0
+  - first:
+      213: 2280753325135226968
+    second: grenade_2d_sprite-removebg-preview_1
+  - first:
+      213: -9083185775383885169
+    second: grenade_2d_sprite-removebg-preview_2
+  - first:
+      213: -2724665829381232522
+    second: grenade_2d_sprite-removebg-preview_3
+  - first:
+      213: 7169776117318194985
+    second: grenade_2d_sprite-removebg-preview_4
+  - first:
+      213: -3056863221013242092
+    second: grenade_2d_sprite-removebg-preview_5
+  - first:
+      213: -90520984135999702
+    second: grenade_2d_sprite-removebg-preview_6
+  - first:
+      213: 4774159727183122629
+    second: grenade_2d_sprite-removebg-preview_7
+  - first:
+      213: 3951493679337424035
+    second: grenade_2d_sprite-removebg-preview_8
+  - first:
+      213: 6306985320717577855
+    second: grenade_2d_sprite-removebg-preview_9
+  - first:
+      213: 2956780284685179347
+    second: grenade_2d_sprite-removebg-preview_10
+  - first:
+      213: 6096034240312724561
+    second: grenade_2d_sprite-removebg-preview_11
+  - first:
+      213: 6084695689289739268
+    second: grenade_2d_sprite-removebg-preview_12
+  - first:
+      213: 1227987412993412204
+    second: grenade_2d_sprite-removebg-preview_13
+  - first:
+      213: -7598994643503861151
+    second: grenade_2d_sprite-removebg-preview_14
+  - first:
+      213: -5997688981304745134
+    second: grenade_2d_sprite-removebg-preview_15
+  - first:
+      213: 38356153565904680
+    second: grenade_2d_sprite-removebg-preview_16
+  - first:
+      213: -4505614001714151045
+    second: grenade_2d_sprite-removebg-preview_17
+  - first:
+      213: 4512082226969889737
+    second: grenade_2d_sprite-removebg-preview_18
+  - first:
+      213: -1463941499897593066
+    second: grenade_2d_sprite-removebg-preview_19
+  - first:
+      213: -7924621977308465814
+    second: grenade_2d_sprite-removebg-preview_20
+  - first:
+      213: -6255725788810784078
+    second: grenade_2d_sprite-removebg-preview_21
+  - first:
+      213: -4557030814327202972
+    second: grenade_2d_sprite-removebg-preview_22
+  - first:
+      213: -2916055133722696304
+    second: grenade_2d_sprite-removebg-preview_23
+  - first:
+      213: 6151804440872526220
+    second: grenade_2d_sprite-removebg-preview_24
+  - first:
+      213: -4366674255766035575
+    second: grenade_2d_sprite-removebg-preview_25
+  - first:
+      213: 6805254836013641125
+    second: grenade_2d_sprite-removebg-preview_26
+  - first:
+      213: 1443791051618228735
+    second: grenade_2d_sprite-removebg-preview_27
+  - first:
+      213: -3213566762590150697
+    second: grenade_2d_sprite-removebg-preview_28
+  - first:
+      213: -6906851525164631667
+    second: grenade_2d_sprite-removebg-preview_29
+  - first:
+      213: -6703089745844361001
+    second: grenade_2d_sprite-removebg-preview_30
+  - first:
+      213: -470657992609629941
+    second: grenade_2d_sprite-removebg-preview_31
+  - first:
+      213: 7358016893138854551
+    second: grenade_2d_sprite-removebg-preview_32
+  - first:
+      213: 1649033299441747626
+    second: grenade_2d_sprite-removebg-preview_33
+  - first:
+      213: 4996322234406464516
+    second: grenade_2d_sprite-removebg-preview_34
+  - first:
+      213: 9010961336358630807
+    second: grenade_2d_sprite-removebg-preview_35
+  - first:
+      213: 6938304687819601476
+    second: grenade_2d_sprite-removebg-preview_36
+  - first:
+      213: 6978987292244482039
+    second: grenade_2d_sprite-removebg-preview_37
+  - first:
+      213: -6525727610393289820
+    second: grenade_2d_sprite-removebg-preview_38
+  - first:
+      213: -5763476587788916796
+    second: grenade_2d_sprite-removebg-preview_39
+  - first:
+      213: 8346077095445499003
+    second: grenade_2d_sprite-removebg-preview_40
+  - first:
+      213: 5314060168671351094
+    second: grenade_2d_sprite-removebg-preview_41
+  - first:
+      213: -5153222461657674036
+    second: grenade_2d_sprite-removebg-preview_42
+  - first:
+      213: 1880995430611041777
+    second: grenade_2d_sprite-removebg-preview_43
+  - first:
+      213: 7589908508636564165
+    second: grenade_2d_sprite-removebg-preview_44
+  - first:
+      213: -7588199879064423974
+    second: grenade_2d_sprite-removebg-preview_45
+  - first:
+      213: -5736109651721116884
+    second: grenade_2d_sprite-removebg-preview_46
+  - first:
+      213: 8877644189873892128
+    second: grenade_2d_sprite-removebg-preview_47
+  - first:
+      213: -4442727249403049178
+    second: grenade_2d_sprite-removebg-preview_48
+  - first:
+      213: 2025590222633840782
+    second: grenade_2d_sprite-removebg-preview_49
+  - first:
+      213: -5350862720488706721
+    second: grenade_2d_sprite-removebg-preview_50
+  - first:
+      213: 3904328484370665357
+    second: grenade_2d_sprite-removebg-preview_51
+  - first:
+      213: -7284210890828162231
+    second: grenade_2d_sprite-removebg-preview_52
+  - first:
+      213: 2517635672434961226
+    second: grenade_2d_sprite-removebg-preview_53
+  - first:
+      213: 3080479724136275270
+    second: grenade_2d_sprite-removebg-preview_54
+  - first:
+      213: -6675570137008149236
+    second: grenade_2d_sprite-removebg-preview_55
+  - first:
+      213: -8800319054172540041
+    second: grenade_2d_sprite-removebg-preview_56
+  - first:
+      213: 8602187571628360963
+    second: grenade_2d_sprite-removebg-preview_57
+  - first:
+      213: -6024861807851353305
+    second: grenade_2d_sprite-removebg-preview_58
+  - first:
+      213: -1238982622274710332
+    second: grenade_2d_sprite-removebg-preview_59
+  - first:
+      213: 8677627317051636212
+    second: grenade_2d_sprite-removebg-preview_60
+  - first:
+      213: -6740678509540571946
+    second: grenade_2d_sprite-removebg-preview_61
+  - first:
+      213: 4054099173738857569
+    second: grenade_2d_sprite-removebg-preview_62
+  - first:
+      213: 8031280380061641084
+    second: grenade_2d_sprite-removebg-preview_63
+  - first:
+      213: -6614313352918274695
+    second: grenade_2d_sprite-removebg-preview_64
+  - first:
+      213: 7864144126012352334
+    second: grenade_2d_sprite-removebg-preview_65
+  - first:
+      213: 489094175729453374
+    second: grenade_2d_sprite-removebg-preview_66
+  - first:
+      213: 4581310559438304114
+    second: grenade_2d_sprite-removebg-preview_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 170
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6898c36c7dbd00800000000000000
+      internalID: 990084261100415930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 166
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858e9f4b01dd6af10800000000000000
+      internalID: 2280753325135226968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 161
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8acc5d79aa02f180800000000000000
+      internalID: -9083185775383885169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 154
+        width: 88
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67826143dda003ad0800000000000000
+      internalID: -2724665829381232522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92794df3469208360800000000000000
+      internalID: 7169776117318194985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 30
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9c80b817d395d0800000000000000
+      internalID: -3056863221013242092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 36
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fdadff4a76ebef0800000000000000
+      internalID: -90520984135999702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 39
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d9bf2af8314240800000000000000
+      internalID: 4774159727183122629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 43
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4cb11c09686d630800000000000000
+      internalID: 3951493679337424035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenade_2d_sprite-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 37
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e69fcbbb9e68750800000000000000
+      internalID: 6306985320717577855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
